@@ -20,13 +20,13 @@ sections:
     component: icons.html
     feature_icons:
       - icon: fa-desktop
-        style: style1
+        style: style2
         title: Lorem
       - icon: fa-laptop
         style: style2
         title: Ipsum
       - icon: fa-hdd
-        style: style3
+        style: style2
         title: Dolor
     section_id: one
     subtitle: >-
