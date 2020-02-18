@@ -7,7 +7,7 @@ social_icons:
     url: 'https://www.instagram.com/geekfix.reparaciones/'
   - icon: fa-envelope-o
     title: Email
-    url: geekfix.reparaciones@gmail.com
+    url: '<a href="mailto:geekfix.reparaciones@gmail.com?Subject=ConsultaWeb">'
   - icon: fa-map-pin
     title: Maps
     url: 'https://goo.gl/maps/N53gd3mKvRtRzhXN6'
