@@ -14,7 +14,7 @@ banner:
   subtitle: >-
     Servicio Técnico Especializado // Windows y Mac  // Software profesional de
     Audio/Video
-  title: Fix Geek Reparaciones
+  title: Geek Fix Reparaciones
 sections:
   - background_style: style1
     component: icons.html
