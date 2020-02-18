@@ -1,24 +1,21 @@
 ---
-title: Generic Page
-subtitle: Aliquam ut ex ut interdum donec amet imperdiet eleifend
+title: CONTACTO
+subtitle: ''
 background_style: style5
 menu:
   main:
-    name: Generic
+    name: Contacto
     weight: 2
 layout: page
 ---
+Geek Fix Reparaciones:
 
-### Lorem ipsum dolor
+Tel: +54 9 11-3033-4862
 
-Morbi mattis mi consectetur tortor elementum, varius pellentesque velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo. Maecenas sagittis felis ac sagittis semper. Curabitur purus leo, tempus sed finibus eget, fringilla quis risus. Maecenas et lorem quis sem varius sagittis et a est. Maecenas iaculis iaculis sem. Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo. Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci fringilla tincidunt. Aliquam eleifend ligula non velit accumsan cursus. Etiam ut gravida sapien.
+Dirección: Avenida Juan Bautista Alberdi 2153 5B (Entre camacua y Bonorino) 
 
-Vestibulum ultrices risus velit, sit amet blandit massa auctor sit amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis id vel diam. Praesent sit amet posuere risus, eu faucibus lectus. Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam. Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna, sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec felis elementum varius.
+Zona: Estación CARABOBO del subte A
 
-***
+`<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3282.973764802347!2d-58.46053494962284!3d-34.630103266304936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcca28a4ab665f%3A0xe55739e0ba47c18a!2sAv.%20Juan%20Bautista%20Alberdi%202153%2C%20C1406GRK%20CABA!5e0!3m2!1sen!2sar!4v1582050073414!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>`
 
-#### Feugiat aliquam
-
-Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean erat diam, tempus aliquet erat.
-
-Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus rutrum cursus velit, eget condimentum nunc blandit vel. In at pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget, fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim vel, posuere finibus justo. Vivamus facilisis maximus nibh quis pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum. Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
+Mail: geekfix.reparaciones@gmail.com
