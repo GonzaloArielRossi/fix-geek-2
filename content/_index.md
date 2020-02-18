@@ -22,7 +22,7 @@ sections:
       - icon: fa-desktop
         style: style2
         title: Lorem
-      - icon: fa-tachometer-alt
+      - icon: fa-laptop
         style: style2
         title: Dolor
       - icon: fa-laptop
