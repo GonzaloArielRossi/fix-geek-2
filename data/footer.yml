@@ -8,7 +8,7 @@ social_icons:
   - icon: fa-envelope-o
     title: Email
     url: geekfix.reparaciones@gmail.com
-  - icon: fa-pinloc
+  - icon: fa-pinloc.png
     title: Maps
     url: 'https://goo.gl/maps/N53gd3mKvRtRzhXN6'
 copyright: >-
