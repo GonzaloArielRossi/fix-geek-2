@@ -22,8 +22,8 @@ sections:
       - icon: fa-desktop
         style: style2
         title: Lorem
-      - icon: fa-memory
-        style: style3
+      - icon: fa-tachometer-alt
+        style: style2
         title: Dolor
       - icon: fa-laptop
         style: style2
