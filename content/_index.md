@@ -22,12 +22,12 @@ sections:
       - icon: fa-desktop
         style: style2
         title: Lorem
-      - icon: fa-laptop
-        style: style2
-        title: Ipsum
       - icon: fa-memory
         style: style3
         title: Dolor
+      - icon: fa-laptop
+        style: style2
+        title: Ipsum
     section_id: one
     subtitle: >-
       <p>.Limpieza interna de Notebooks y maquinas de escritorio.<br
