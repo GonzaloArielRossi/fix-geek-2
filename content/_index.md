@@ -4,7 +4,7 @@ banner:
   actions:
     - is_primary: true
       is_scrolly: false
-      label: Activate
+      label: CONTACTO
       url: /generic
   bottom_link:
     has_arrow: true
