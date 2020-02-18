@@ -5,7 +5,7 @@ banner:
     - is_primary: true
       is_scrolly: false
       label: CONTACTO
-      url: /footer
+      url: /contacto
   bottom_link:
     has_arrow: true
     is_scrolly: true
