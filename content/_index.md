@@ -30,26 +30,22 @@ sections:
         title: Dolor
     section_id: one
     subtitle: >-
-      <ul>
+      .Limpieza interna de Notebooks y maquinas de escritorio.
 
-      <li>Limpieza interna de Notebooks y maquinas de escritorio.</li>
+      .Optimización De Sistema Operativo.
 
-      <li>Optimizaci&oacute;n De Sistema Operativo.</li>
+      .Le devolvemos la velocidad a Pc's Lentas.
 
-      <li>Le devolvemos la velocidad a Pc's Lentas.</li>
+      .Limpieza de Malware-Adware-Bloatware.
 
-      <li>Limpieza de Malware-Adware-Bloatware.</li>
+      .Actualización de software.
 
-      <li>Actualizaci&oacute;n de software.</li>
+      .Instalción de Software profesional de Video y Audio (Vst's,
+      Daw's,Editores,etc...)
 
-      <li>Instalci&oacute;n de Software profesional de Video y Audio (Vst's,
-      Daw's,Editores,etc...)</li>
+      .Formateos, Backups, Instalacion de SO.
 
-      <li>Formateos, Backups, Instalacion de SO.</li>
-
-      <li data-select-like-a-boss="1">Reparaciones de todo tipo.</li>
-
-      </ul>
+      .Reparaciones de todo tipo.
     title: Servicios
     type: icons
 menu:
