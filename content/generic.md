@@ -1,7 +1,7 @@
 ---
 title: CONTACTO
-subtitle: 'Geek Fix Reparaciones:'
-background_style: style2
+subtitle: ''
+background_style: style3
 menu:
   main:
     identifier: ''
