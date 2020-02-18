@@ -11,10 +11,9 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Servicio Técnico Especializado
-    Windows y Mac
-    Software profesional de Audio/Video
+  subtitle: >-
+    Servicio Técnico Especializado // Windows y Mac  // Software profesional de
+    Audio/Video
   title: Fix Geek Reparaciones
 sections:
   - background_style: style1
