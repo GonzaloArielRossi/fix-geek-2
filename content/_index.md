@@ -29,23 +29,23 @@ sections:
         style: style3
         title: Dolor
     section_id: one
-    subtitle: >
-      - Limpieza interna de Notebooks y maquinas de escritorio.
+    subtitle: >-
+      * Limpieza interna de Notebooks y maquinas de escritorio.
 
-      - Optimización De Sistema Operativo.
+      * Optimización De Sistema Operativo.
 
-      - Le devolvemos la velocidad a Pc's Lentas.
+      * Le devolvemos la velocidad a Pc's Lentas.
 
-      - Limpieza de Malware-Adware-Bloatware.
+      * Limpieza de Malware-Adware-Bloatware.
 
-      - Actualización de software.
+      * Actualización de software.
 
-      - Instalción de Software profesional de Video y Audio (Vst's,
-      Daw's,Editores,etc...).
+      * Instalción de Software profesional de Video y Audio (Vst's,
+      Daw's,Editores,etc...)
 
-      - Reparaciones de todo tipo.
+      * Reparaciones de todo tipo.
 
-      - Formateos, Backups, Instalacion de SO.
+      * Formateos, Backups, Instalacion de SO.
     title: Servicios
     type: icons
 menu:
