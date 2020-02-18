@@ -26,13 +26,13 @@ sections:
         style: style2
         title: Ipsum
       - icon: fa-memory
-        style: style2
+        style: style3
         title: Dolor
     section_id: one
     subtitle: >-
       <p>.Limpieza interna de Notebooks y maquinas de escritorio.<br
       />.Optimizaci&oacute;n De Sistema Operativo.<br />.Upgrade de Hardware
-      (Sum&aacute; RAM, SSD para mejorar al maximo tu equipo)<br />.Le
+      (Sum&aacute; RAM, SSD para mejorar al máximo tu equipo)<br />.Le
       devolvemos la velocidad a Pc's Lentas.<br />.Limpieza de
       Malware-Adware-Bloatware.<br />.Actualizaci&oacute;n de software.<br
       />.Instalci&oacute;n de Software profesional de Video y Audio (Vst's,
