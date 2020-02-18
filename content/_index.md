@@ -9,7 +9,7 @@ banner:
   bottom_link:
     has_arrow: true
     is_scrolly: true
-    label: Learn More
+    label: + INFO
     url: '#one'
   subtitle: >-
     Servicio Técnico Especializado // Windows y Mac  // Software profesional de
