@@ -12,9 +12,11 @@ banner:
     label: Learn More
     url: '#one'
   subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
+    Servicio Técnico Especializado
+
+    MAC Y PC
+
+    Software Profesional Audio/Video
   title: Fix Geek Reparaciones
 sections:
   - background_style: style1
