@@ -5,7 +5,7 @@ background_style: style3
 menu:
   main:
     identifier: ''
-    name: ''
+    name: Contacto
     parent: ''
     weight: 2
 layout: page
