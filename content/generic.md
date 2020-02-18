@@ -4,9 +4,9 @@ subtitle: ''
 background_style: style5
 menu:
   main:
-    identifier: Contacto
-    name: Contacto
-    parent: Contacto
+    identifier: ''
+    name: ''
+    parent: ''
     weight: 2
 layout: page
 ---
