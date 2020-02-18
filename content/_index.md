@@ -32,18 +32,25 @@ sections:
     subtitle: >-
       .Limpieza interna de Notebooks y maquinas de escritorio.
 
+
       .Optimización De Sistema Operativo.
+
 
       .Le devolvemos la velocidad a Pc's Lentas.
 
+
       .Limpieza de Malware-Adware-Bloatware.
 
+
       .Actualización de software.
+
 
       .Instalción de Software profesional de Video y Audio (Vst's,
       Daw's,Editores,etc...)
 
+
       .Formateos, Backups, Instalacion de SO.
+
 
       .Reparaciones de todo tipo.
     title: Servicios
