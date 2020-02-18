@@ -1,21 +1,12 @@
 social_icons:
-  - title: Twitter
-    icon: fa-twitter
-    url: '#'
-  - title: Facebook
-    icon: fa-facebook
-    url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-  - title: Dribbble
-    icon: fa-dribbble
-    url: '#'
-  - title: Email
-    icon: fa-envelope-o
-    url: '#'
-copyright: '&copy; Spectral'
-links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+  - icon: fa-facebook
+    title: Facebook
+    url: 'https://www.facebook.com/Fix-Geek-Reparaciones-103646204562485'
+  - icon: fa-instagram
+    title: Instagram
+    url: 'https://www.instagram.com/geekfix.reparaciones/'
+  - icon: fa-envelope-o
+    title: Email
+    url: fixgeek.reparaciones@gmail.com
+copyright: '&copy; Fix Geek Reparaciones 2010-2020'
+links: []
