@@ -22,10 +22,10 @@ sections:
       - icon: fa-desktop
         style: style1
         title: Lorem
-      - icon: fa-heart-o
+      - icon: fa-laptop
         style: style2
         title: Ipsum
-      - icon: fa-code
+      - icon: fa-hdd
         style: style3
         title: Dolor
     section_id: one
