@@ -16,7 +16,7 @@ banner:
     Audio/Video
   title: Geek Fix Reparaciones
 sections:
-  - background_style: style1
+  - background_style: style2
     component: icons.html
     feature_icons:
       - icon: fa-desktop
@@ -30,33 +30,33 @@ sections:
         title: Ipsum
     section_id: one
     subtitle: >-
-      .Limpieza interna de Notebooks y máquinas de escritorio. <br>
+      \-Limpieza interna de Notebooks y máquinas de escritorio. 
 
 
-      .Optimización De Sistemas Operativos.<br>
+      \-Optimización De Sistemas Operativos.
 
 
-      .Upgrade de Hardware (Sumá RAM, SSD para mejorar al máximo el rendimiento
-      de tu equipo)<br>
+      \-Upgrade de Hardware (Sumá RAM, SSD para mejorar al máximo el rendimiento
+      de tu equipo)
 
 
-      .Le devolvemos la velocidad a Pc's Lentas.<br>
+      \-Le devolvemos la velocidad a Pc's Lentas.
 
 
-      .Limpieza de Malware-Adware-Bloatware.<br>
+      \-Limpieza de Malware-Adware-Bloatware.
 
 
-      .Actualización de software.<br>
+      \-Actualización de software.
 
 
-      .Instalción de Software profesional de Video y Audio (Vst's,
-      Daw's,Editores,etc...)<br>
+      \-Instalción de Software profesional de Video y Audio (Vst's,
+      Daw's,Editores,etc...)
 
 
-      .Formateos, Backups, Instalacion de SO.<br>
+      \-Formateos, Backups, Instalacion de SO.
 
 
-      .Reparaciones de todo tipo.<br>
+      \-Reparaciones de todo tipo.
     title: Servicios
     type: icons
 menu:
