@@ -30,24 +30,13 @@ sections:
         title: Ipsum
     section_id: one
     subtitle: >-
-      .Limpieza interna de Notebooks y máquinas de escritorio. .Optimización De
-      Sistemas Operativos.
-
-      .Upgrade de Hardware (Sumá RAM, SSD para mejorar al máximo el rendimiento
-      de tu equipo)
-
-      .Le devolvemos la velocidad a Pc's Lentas.
-
-      .Limpieza de Malware-Adware-Bloatware.
-
-      .Actualización de software.
-
-      .Instalción de Software profesional de Video y Audio (Vst's,
-      Daw's,Editores,etc...)
-
-      .Formateos, Backups, Instalacion de SO.
-
-      .Reparaciones de todo tipo.
+      .Limpieza interna de Notebooks y máquinas de escritorio.<br> .Optimización
+      De Sistemas Operativos.<br> .Upgrade de Hardware (Sumá RAM, SSD para
+      mejorar al máximo el rendimiento de tu equipo)<br> .Le devolvemos la
+      velocidad a Pc's Lentas.<br> .Limpieza de Malware-Adware-Bloatware.<br>
+      .Actualización de software.<br> .Instalción de Software profesional de
+      Video y Audio (Vst's, Daw's,Editores,etc...)<br> .Formateos, Backups,
+      Instalacion de SO.<br> .Reparaciones de todo tipo.<br>
     title: Servicios
     type: icons
 menu:
