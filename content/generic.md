@@ -1,7 +1,7 @@
 ---
 title: CONTACTO
 subtitle: ''
-background_style: style3
+background_style: style2
 menu:
   main:
     identifier: ''
