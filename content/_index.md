@@ -16,7 +16,7 @@ banner:
     Audio/Video
   title: Geek Fix Reparaciones
 sections:
-  - background_style: style2
+  - background_style: style3
     component: icons.html
     feature_icons:
       - icon: fa-desktop
