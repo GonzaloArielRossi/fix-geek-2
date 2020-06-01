@@ -1,6 +1,5 @@
 ---
 title: Home
-
 banner:
   actions:
     - is_primary: true
@@ -66,4 +65,3 @@ menu:
     weight: 1
 layout: home
 ---
-
